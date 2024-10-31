@@ -1,3 +1,5 @@
 DEsde el master
 
-Esto se escribiò desde el master
+Esto se escribiò desde el master y rama3.
+Ajustando conflicto
+
